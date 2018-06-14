@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: django-dad
-Version: 0.1
+Version: 0.1.1
 Summary: A simple Django app to add dad jokes to the admin page.
 Home-page: UNKNOWN
 Author: Joshua Ralls
