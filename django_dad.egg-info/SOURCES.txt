@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+django-dad/__init__.py
+django-dad/admin.py
+django-dad/apps.py
+django-dad/models.py
+django-dad/tests.py
+django-dad/views.py
+django-dad/migrations/__init__.py
+django_dad.egg-info/PKG-INFO
+django_dad.egg-info/SOURCES.txt
+django_dad.egg-info/dependency_links.txt
+django_dad.egg-info/requires.txt
+django_dad.egg-info/top_level.txt
